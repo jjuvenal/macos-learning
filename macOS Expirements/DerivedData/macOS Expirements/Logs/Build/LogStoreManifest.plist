@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>CB9A3101-8B06-4B21-BE93-D30FA682C33B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB9A3101-8B06-4B21-BE93-D30FA682C33B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>macOS Expirements project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>macOS Expirements</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build macOS Expirements</string>
+			<key>timeStartedRecording</key>
+			<real>560905230.59666204</real>
+			<key>timeStoppedRecording</key>
+			<real>560905233.680035</real>
+			<key>title</key>
+			<string>Build macOS Expirements</string>
+			<key>uniqueIdentifier</key>
+			<string>CB9A3101-8B06-4B21-BE93-D30FA682C33B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

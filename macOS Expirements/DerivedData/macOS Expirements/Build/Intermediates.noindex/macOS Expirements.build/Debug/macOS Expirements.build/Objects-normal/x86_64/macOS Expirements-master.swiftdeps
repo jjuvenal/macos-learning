@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "6e056b389e85aa503e2db62ecd4c70b7"
+build_time: [1539212397, 737529000]
+inputs:
+  "/Users/jonathonjuvenal/Documents/GitHub/macos-learning/macOS Expirements/macOS Expirements/ViewController.swift": [1539142536, 0]
+  "/Users/jonathonjuvenal/Documents/GitHub/macos-learning/macOS Expirements/macOS Expirements/AppDelegate.swift": [1539142536, 0]
