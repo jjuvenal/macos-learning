@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74AAA583020A2FD086C6D84C180D944403F4BEF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74AAA583020A2FD086C6D84C180D944403F4BEF8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "014032C4-202A-473A-9D0B-A4C38EC7E456",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74AAA583020A2FD086C6D84C180D944403F4BEF8" : "macos-learning\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BigMountain-LearniOS-SecretProject-1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BigMountain-LearniOS-SecretProject-1\/BigMountain-LearniOS-SecretProject-1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jjuvenal\/macos-learning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74AAA583020A2FD086C6D84C180D944403F4BEF8"
+    }
+  ]
+}
